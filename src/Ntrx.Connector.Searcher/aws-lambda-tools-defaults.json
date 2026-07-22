@@ -1,0 +1,12 @@
+{
+  "Information": [
+    "Defaults para 'dotnet lambda package/deploy-function'. A infra cria a função; o deploy da aplicação só atualiza o código (zip)."
+  ],
+  "configuration": "Release",
+  "function-runtime": "dotnet8",
+  "function-architecture": "x86_64",
+  "function-memory-size": 512,
+  "function-timeout": 900,
+  "function-handler": "Ntrx.Connector.Searcher::Ntrx.Connector.Searcher.Function::Handler",
+  "function-name": "ntrx-searcher"
+}

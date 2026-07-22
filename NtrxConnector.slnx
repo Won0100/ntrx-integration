@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Ntrx.Connector.Core/Ntrx.Connector.Core.csproj" />
+    <Project Path="src/Ntrx.Connector.Downloader/Ntrx.Connector.Downloader.csproj" />
+    <Project Path="src/Ntrx.Connector.Searcher/Ntrx.Connector.Searcher.csproj" />
+  </Folder>
+</Solution>
